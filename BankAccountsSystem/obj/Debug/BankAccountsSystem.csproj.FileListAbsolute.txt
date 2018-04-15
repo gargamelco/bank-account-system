@@ -1,0 +1,6 @@
+c:\users\core i7 pavilion 17\documents\visual studio 2015\Projects\BankAccountsSystem\BankAccountsSystem\bin\Debug\BankAccountsSystem.exe.config
+c:\users\core i7 pavilion 17\documents\visual studio 2015\Projects\BankAccountsSystem\BankAccountsSystem\bin\Debug\BankAccountsSystem.exe
+c:\users\core i7 pavilion 17\documents\visual studio 2015\Projects\BankAccountsSystem\BankAccountsSystem\bin\Debug\BankAccountsSystem.pdb
+c:\users\core i7 pavilion 17\documents\visual studio 2015\Projects\BankAccountsSystem\BankAccountsSystem\obj\Debug\BankAccountsSystem.csprojResolveAssemblyReference.cache
+c:\users\core i7 pavilion 17\documents\visual studio 2015\Projects\BankAccountsSystem\BankAccountsSystem\obj\Debug\BankAccountsSystem.exe
+c:\users\core i7 pavilion 17\documents\visual studio 2015\Projects\BankAccountsSystem\BankAccountsSystem\obj\Debug\BankAccountsSystem.pdb
